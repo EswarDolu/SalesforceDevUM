@@ -7,6 +7,13 @@
         <members>A0123678</members>
         <members>A012378</members>
         <members>A028</members>
+        <members>A0456</members>
+        <members>A1</members>
         <name>ApexClass</name>
+    </types>
+    <types>
+        <members>Account.Active__c</members>
+        <members>Account.AutorabitExtId__c</members>
+        <name>CustomField</name>
     </types>
 </Package>
